@@ -10,8 +10,9 @@ body {
   justify-content: space-between;
   margin: 0px;
   min-height: 100vh;
-  background-image: url("images/binary.png");
+  background-image: url("images/binary.jpg");
   background-attachment: fixed;
+  background-size: cover;
 }
 
 h1{
